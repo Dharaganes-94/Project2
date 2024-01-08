@@ -14,7 +14,7 @@
 		    <class name="com.spicejet.tests.RoundTripTest" />
 		    <class name="com.spicejet.tests.SelectFlightTest" />
 		    <class name="com.spicejet.tests.BookingFormTest" />
-		    <class name="com.spicejet.tests.AddonsTest" />
+		    <class name="com.spicejet.tests.AddonsInfoTest" />
             <class name="com.spicejet.tests.PaymentInfoTest" />
 
 
